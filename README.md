@@ -1,7 +1,7 @@
 # Afterlife
 an open source full sized keyboard 
 ### y the name ?
-cuz i am thinking of giving it a glassy/translucent aesthetic like the afterlive bar in cyberpunk <br>
+cuz i am thinking of giving it a glassy/translucent aesthetic like the Afterlife bar in cyberpunk <br>
 <img width="1000" height="666" alt="image" src="https://github.com/user-attachments/assets/25355047-06db-4578-b98b-758151b8cef9" />
 
 ## features
