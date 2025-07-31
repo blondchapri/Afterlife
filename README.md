@@ -1,5 +1,9 @@
 # Afterlife
 an open source full sized keyboard 
+### y the name ?
+cuz i am thinking of giving it a glassy/translucent aesthetic like the afterlive bar in cyberpunk <br>
+<img width="100." height="66.6" alt="image" src="https://github.com/user-attachments/assets/25355047-06db-4578-b98b-758151b8cef9" />
+
 ## features
 - .9inch oled
 - a uv led matrix clock
