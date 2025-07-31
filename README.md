@@ -19,7 +19,7 @@ cuz i am thinking of giving it a glassy/translucent aesthetic like the Afterlife
 <img width="1655" height="590" alt="image" src="https://github.com/user-attachments/assets/c23119aa-4c3f-4806-8fd2-0b0f110beaf5" />
 
 # most of the design is done only optimization and implimenting more cost cuting measures are remaining 
-# personal stuff about the keeb
+# *personal stuff about the keeb*
 ### switches
 when i make this, this will be my second ever mechanical keyboard <br>
 so naturally i am confused about the switches, i recently ordered a switch tester for kailh and gateron (after some research landed on kailh as i think it’s a good balance between price and quality imo <br>
