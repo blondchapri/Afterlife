@@ -4,7 +4,7 @@ an open source full sized keyboard with a
 - a uv led matrix clock
 -  uses rp2040zero and 7 MCP23017T
 -  gasket mount (.5mm gaskets)
--  hotswap
+-  hotswap <br> 
 ![WhatsApp Image 2025-07-18 at 17 04 01_8e948f4c](https://github.com/user-attachments/assets/515133a4-634f-4ff6-ab8f-8b8bd1028780)
 ![WhatsApp Image 2025-07-18 at 17 01 16_ea3760be](https://github.com/user-attachments/assets/9ae1699a-dca0-4c4c-9c88-cbcd022dbf64)
 ![WhatsApp Image 2025-07-18 at 17 01 16_0bbc9f71](https://github.com/user-attachments/assets/8c889e64-6c32-48b9-b6f7-34b7ba105434)
