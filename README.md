@@ -24,4 +24,5 @@ and hoelay moelay i love the ink pink, don’t get me wrong box jade is also rea
 and now i can’t choose between them :(
 ### case material 
 i am thinking a frosted translucent material <br> like the one in new ltt screwdriver 
-<img width="1333" height="2000" alt="image" src="https://github.com/user-attachments/assets/9e7a9629-59ef-4419-93a9-1062a551c2e6" />
+<img width="133.3" height="200" alt="image" src="https://github.com/user-attachments/assets/a4b47e30-e5e9-48ad-9b39-0c7a69f0aaa0" />
+this asthethic omg i am in love 
