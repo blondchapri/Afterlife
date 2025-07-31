@@ -29,7 +29,10 @@ this aesthetic omg i am in love <br>
 some time back got a helldivers dog tag 3d printed <br>
 ![WhatsApp Image 2025-07-31 at 14 56 18_d1db83d2](https://github.com/user-attachments/assets/636a8844-3567-4115-9cc3-fb993a547223) <br>
 ![WhatsApp Image 2025-07-31 at 14 56 19_30edde9e](https://github.com/user-attachments/assets/f8596cd0-1f3e-4bcf-aa81-a66ad0856a35) <br>
-this is like almost tranlusent and i think will work too , but i am still not sure about it 
+this is like almost tranlusent and i think will work too , but i am still not sure about it <br>
+somthing like his maybe <br> 
+<img width="1350" height="1080" alt="Untitled Project (8)" src="https://github.com/user-attachments/assets/c9ea12b1-3631-42e6-8322-0bf3d2302e20" />
+
 ### key caps 
 i am gonna use these ones 
 <img width="1482" height="906" alt="image" src="https://github.com/user-attachments/assets/23f69004-ef4b-4f31-b1ea-e870955bd693" />
