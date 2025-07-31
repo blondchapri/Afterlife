@@ -23,6 +23,15 @@ since the inception of the project i was keen on the box jade, so i was sure to 
 and hoelay moelay i love the ink pink, don’t get me wrong box jade is also really nice but the ink pink feels so smooth and premium <br>
 and now i can’t choose between them :(
 ### case material 
-i am thinking a frosted translucent material <br> like the one in new ltt screwdriver 
-<img width="133.3" height="200" alt="image" src="https://github.com/user-attachments/assets/a4b47e30-e5e9-48ad-9b39-0c7a69f0aaa0" />
-this asthethic omg i am in love 
+i am thinking a frosted translucent material <br> like the one in new ltt screwdriver <br>
+<img width="1333" height="2000" alt="image" src="https://github.com/user-attachments/assets/a4b47e30-e5e9-48ad-9b39-0c7a69f0aaa0" /> <br>
+this aesthetic omg i am in love <br>
+some time back got a helldivers dog tag 3d printed 
+![WhatsApp Image 2025-07-31 at 14 56 18_d1db83d2](https://github.com/user-attachments/assets/636a8844-3567-4115-9cc3-fb993a547223)
+![WhatsApp Image 2025-07-31 at 14 56 19_30edde9e](https://github.com/user-attachments/assets/f8596cd0-1f3e-4bcf-aa81-a66ad0856a35) <br>
+this is like almost tranlusent and i think will work too , but i am still not sure about it 
+### key caps 
+i am gonna use these ones 
+<img width="1482" height="906" alt="image" src="https://github.com/user-attachments/assets/23f69004-ef4b-4f31-b1ea-e870955bd693" />
+
+
