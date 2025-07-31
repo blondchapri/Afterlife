@@ -1,5 +1,6 @@
 # Afterlife
-an open source full sized keyboard with a 
+an open source full sized keyboard 
+## features
 - .9inch oled
 - a uv led matrix clock
 -  uses rp2040zero and 7 MCP23017T
